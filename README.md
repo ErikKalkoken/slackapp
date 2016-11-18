@@ -1,10 +1,11 @@
 # slackapp
 
 ## Description
-This PHP script is a rudimentary example for installing a self developed Slack app using OAuth into a Slack team.
+The PHP script `install.php` is a rudimentary example for installing a self developed Slack app using OAuth into a Slack team.
 
 ## Requirements
 In order to use this script you need a webserver with PHP 5 that is accessable from the Internet. SSL is technically not required, howwever strongly recommended for security reasons.
+This script will run standalone and does not require any additional libraries.
 
 ## How to use it
 ### 1. Create your own Slack app
